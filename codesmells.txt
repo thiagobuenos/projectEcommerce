@@ -1,0 +1,8 @@
+1 - linhas em branco
+2 - cometários
+3 - erro de indentação
+4 - condições confusas
+5 - tratamento inadequado de erros
+6 - declaração da variável longe do seu uso
+7 - algoritmo confuso
+8 - nomes estranhos
